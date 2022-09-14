@@ -3,7 +3,6 @@
 namespace FleetCart\Http\Controllers;
 
 use Exception;
-use FleetCart\Install\Store;
 use FleetCart\Install\Database;
 use FleetCart\Install\Requirement;
 use Illuminate\Routing\Controller;
